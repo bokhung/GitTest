@@ -98,6 +98,9 @@ int main(void)
   {
     /* USER CODE END WHILE */
 	printf("1st......");
+
+	printf("2'nd------......");
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
